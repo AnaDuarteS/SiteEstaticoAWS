@@ -1,1 +1,1 @@
-# Site Estático hospedado na AWS
+# Site Estático na AWS
